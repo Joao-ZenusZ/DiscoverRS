@@ -1,6 +1,7 @@
 * {
     margin: 0;
     box-sizing: border-box;
+    background-color: rgb(234, 244, 255);
     /*border: 1px solid red; */
 }
 body {
@@ -39,4 +40,7 @@ p {
     left:10vw;
     border-top: 1px solid black;
     padding-top: 5px;
+}
+a:hover {
+    background-color: rgb(219, 238, 255);
 }
