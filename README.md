@@ -1,0 +1,1 @@
+Esse é o repositório do futuro MVP da Microsoft
