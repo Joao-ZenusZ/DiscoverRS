@@ -1,0 +1,58 @@
+:root{
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+}
+* {
+    box-sizing: border-box;
+    
+    margin: 0;
+}
+body {
+    background-color: var(--body-bg-color);    
+}
+#foto {    
+    border: 1px solid #BB99DD;
+    margin: 85px auto 20px;
+    width: 210px;
+    height: 210px;
+    padding: 0px;
+    border-radius: 100%;
+    /* text-align: center;     */
+}
+#link {
+    margin:10px auto 10px;
+    width: 99px;
+    height: 24px;
+    padding: 3px;
+    text-align: center;
+}
+.instagram {
+    color: var(--purple);
+    text-decoration: none;    
+}
+#caixa {
+    padding: 15px 0;
+    margin: 0 auto 15px;
+    width: 326px;
+    height: 49px;
+    border: 1px solid #BB99DD;
+    text-align: center;
+    border-radius: 5px;
+}
+#shortcut {
+    margin: 20px auto 0;
+    width: 326px;
+    height: 49px;
+    text-align: center;
+}
+.icon {
+    margin: 8px;
+    
+}
+.image {
+    border-radius: 100%;
+    max-width: 200px;
+    max-height: 200px;
+    margin: 4.5px;
+    /* margin: 6.5px; */
+}
