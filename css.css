@@ -79,7 +79,8 @@ a:hover {
     padding-left: 10px;
 }
 footer {
-    position: absolute;
-    top: 90vh;
+    position: fixed;
+    top: 95vh;
     width: 80vw;
+    background-color: rgb(234, 244, 255);
 }
