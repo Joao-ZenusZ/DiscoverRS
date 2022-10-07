@@ -29,8 +29,7 @@ ul {
     margin: auto    
 }
 a {
-    color: rgb(0, 49, 53);
-    text-decoration: none;
+    color: rgb(0, 49, 53);   
     
     background-color: transparent;
     font-weight: bolder;
@@ -59,11 +58,11 @@ a:hover {
     flex-direction: row;
 }
 .image-caixa {
-    width: 95%;
-    height: 85%;    
+    width: 100%;
+    height: 75%;    
     object-fit: fill;
-    margin-top: 5px;
-    border-radius: 10px;
+    margin-top: 29px;
+    border-radius: 0px 0px 10px 10px;
 }
 .card {
     border: 1px solid rgb(0, 49, 53);
@@ -74,7 +73,7 @@ a:hover {
     max-width: 20%;
     min-width: 20%;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 20px;
     padding-left: 0;
     box-shadow: 5px 6px 5px 4px rgba(0, 49, 53, 0.404);
 }
